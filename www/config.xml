@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.baochengyoubang.chat.baocheng" version="1.0.0.0.0"   versionCode="10000" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>保诚友邦网</name>
+    <description>
+     保诚友邦网  
+    </description>
+    <author email="admin@baochengyoubang.com" href="http://baochengyoubang.com">
+        保诚友邦网
+    </author>
+    <content src="index.html" />
+		<icon src="icon.png" />
+	    <plugin name="cordova-plugin-inappbrowser" />
+		    <access origin="*"/>
+ <plugin name="cordova-plugin-whitelist" version="1" />
+    <allow-intent href="http://*/*" />
+</widget>
